@@ -1,2 +1,2 @@
-# Hola-world
-my profolio
+# Design world
+my profolio is about graphic design
